@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning advanced cloud architecture and system design.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **React, Node.js, Python, or DevOps**.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: cp4472304@gmail.com
 
 ---
 
