@@ -97,6 +97,6 @@ I am a passionate **Bachelor of Computer Applications (BCA)** student dedicated 
 ### 🤝 Let's Connect!
 I am highly collaborative and love discussing technology, software patterns, and open-source contributions. Feel free to reach out to me!
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** cp4472304@gmail.com
 - 💼 **LinkedIn:** [/in/your-linkedin-profile](https://linkedin.com/in/yourusername)
 - 📝 **Portfolio / Blog:** [yourportfolio.com](https://yourportfolio.com)
